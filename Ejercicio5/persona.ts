@@ -55,6 +55,6 @@ let empleado1 = new Empleado('Juan', 'Colono', 'Calle 1', '12357888', 20, 1000);
 empleado1.mostrarInformacion();
 empleado1.imprimirSueldo();
 empleado1.mayorEdad();
-empleado1.cargarSueldo(2000);
+empleado1.cargarSueldo(1500);
 empleado1.imprimirSueldo();
 empleado1.mostrarInformacion();
